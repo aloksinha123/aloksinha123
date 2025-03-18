@@ -1,16 +1,13 @@
-## Hi there 👋
+🎓 Computer Engineering Student @ Fr. Conceicao Rodrigues College of Engineering
+💻 Full-Stack Developer 
 
-<!--
-**aloksinha123/aloksinha123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 **Tech Stack:**  
+- 💡 Languages: Python, JavaScript, C++  
+- 🌐 Web: HTML, CSS, JavaScript, React  
+- 🛢️ Database: PostgreSQL  
+- 🔌 Backend: JDBC  
+- 🛠 Tools: VS Code, IntelliJ
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's Connect!**  
+📧 Email:aloksinha081104@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/alok-sinha-230005334) | 🐙 [GitHub](https://github.com/aloksinha123)  
