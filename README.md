@@ -1,160 +1,236 @@
 <h1 align="center">Hi 👋, I'm Alok Sinha</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Spring+Boot+%7C+MERN+Stack;Building+Real-World+Applications;Always+Learning+New+Things" />
+  <b>Computer Engineering Student · Full-Stack Developer · Data & Analytics</b>
+</p>
+
+<p align="center">
+  Building practical web applications, backend systems, and data-driven solutions.
+</p>
+
+<p align="center">
+  <a href="https://github.com/aloksinha123">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alok-sinha-230005334/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://gigcampus-mu.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:aloksinha081104@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```js
-const alok = {
-  location: "Mumbai, India",
-  role: "Full-Stack Developer",
-  education: "Computer Engineering Student",
+I'm a Computer Engineering student interested in building practical software products and data-driven applications.
 
-  currentFocus: "Building scalable web applications",
+My work spans full-stack web development, backend APIs, databases, UI/UX, and data analytics. I enjoy turning requirements into functional applications and working across the frontend, backend, and data layers.
 
-  techStack: ["Java", "Spring Boot", "MERN", "REST APIs"],
-
-  currentlyLearning: [
-    "System Design",
-    "Backend Scaling",
-    "MongoDB Optimization",
-    "Advanced Spring Boot"
-  ],
-
-  mindset: "I build real-world systems, not just projects"
-};
-```
+* 💻 Building full-stack web applications and REST APIs
+* ⚙️ Working with React.js, Node.js, Java and Spring Boot
+* 🗄️ Working with PostgreSQL, MongoDB and SQL
+* 📊 Exploring data analytics with Python, Pandas, Excel and Power BI
+* 🎨 Interested in UI/UX and product-focused development
+* ☁️ Exploring AWS, Google Cloud and cloud-based application development
+* 🚀 Interested in backend architecture, system design and scalable applications
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ Tech Stack
 
-<p align="center">
-<a href="https://www.instagram.com/_alok_sinha.7/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/alok-sinha-230005334/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://gigcampus-mu.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="mailto:aloksinha081104@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
----
+### 🎨 Frontend & UI/UX
 
-## 💻 Tech Stack
-
-## 💻 Tech Stack
-
-### 🖥️ Languages
-<p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
-<p align="center">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+### 🗄️ Databases & Data
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-### 🗄️ Database
-<p align="center">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+### ☁️ Cloud, DevOps & Tools
 
-### 🚀 Tools & Deployment
-<p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-## 🧠 Core Strengths
+## 🚀 Featured Projects
 
-- 🚀 Full-stack development (Frontend + Backend)
-- ⚙️ Strong backend logic & API design
-- 📦 Database design & integration
-- ⚡ Fast learner & problem solver
-- 🤝 Hackathon & collaboration mindset
+### 🔥 GigCampus — Student Freelance Marketplace
+
+A full-stack student freelance marketplace connecting students with clients.
+
+**Key Features**
+
+* 🔐 JWT-based authentication
+* 💬 Real-time chat using Socket.io
+* 💼 Bidding and project workflows
+* 👤 Student portfolio showcase
+* 🔌 RESTful backend APIs
+* ☁️ Production deployment using Vercel, Render and MongoDB Atlas
+
+**Tech Stack:** React.js · Node.js · Express.js · MongoDB · Socket.io · JWT
+
+🔗 **Live Demo:** https://gigcampus-mu.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
+### 🏗️ ConstructIQ — Smart Construction Management Platform
+
+A full-stack construction management platform designed for project monitoring and operational decision support.
+
+**Key Features**
+
+* 📊 Role-based dashboards
+* 🔐 JWT authentication and protected routes
+* 🔌 REST API integration
+* 🏗️ Construction project monitoring
+* 🤖 ML-based anomaly detection and prediction modules
+* 🌦️ Weather-aware route optimization features
+
+**Tech Stack:** React.js · Node.js · Express.js · MongoDB · Flask · Scikit-learn · JWT · Tailwind CSS
+
+---
+
+### 🌶️ SwaadSupplier — AI-Powered Supplier Platform
+
+A full-stack raw-material sourcing platform connecting street-food vendors with verified suppliers.
+
+**Key Features**
+
+* 🤖 AI-powered ingredient estimation
+* 🔎 Supplier recommendation
+* 🛒 Raw-material sourcing workflow
+* 🔐 Supplier verification
+* ⛓️ Blockchain-based trust system
+* 📱 Responsive frontend experience
+
+**Tech Stack:** React.js · Tailwind CSS · Node.js · Express.js · MongoDB · Gemini AI · Solidity
+
+---
+
+### 📊 E-Commerce Sales Analytics
+
+A data analytics project focused on customer behavior, product performance, revenue trends and regional sales.
+
+**Key Analysis**
+
+* 💰 Revenue and sales trends
+* 👥 Customer purchasing behavior
+* 🏆 Top customers and products
+* 📦 Product and category performance
+* 🌍 Regional sales analysis
+* 📈 Interactive Power BI dashboard
+
+**Tech Stack:** PostgreSQL · SQL · Python · Pandas · Excel · Power BI
+
+---
+
+## 📜 Certifications
+
+* **Google Cloud Career Launchpad — Cloud Engineer Track** — Google Cloud, 2026
+* **AWS Academy Graduate — Cloud Architecting** — AWS Academy, 2026
+  🔗 [View Credential](https://www.credly.com/go/f7DaPkwr)
+* **SQL (Intermediate)** — HackerRank, 2025
+* **Data Analytics Job Simulation** — Deloitte / Forage, 2025
+
+---
+
+## 🏆 Hackathons & Achievements
+
+### International UAI HAWK-ATHON — 2026
+
+Participated in the International UAI HAWK-ATHON final held at Universal AI University, Karjat, in March 2026.
+
+---
+
+## 💼 Experience
+
+### UI/UX & Web Development Intern — Graphura
+
+* Designed UI/UX layouts, dashboards and responsive web interfaces
+* Contributed to client-facing web projects and frontend applications
+* Created reusable UI components and wireframes
+* Assisted with testing, debugging and frontend optimization
+* Collaborated with designers and developers on live projects
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aloksinha123&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aloksinha123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aloksinha123&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloksinha123&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aloksinha123&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🎯 Currently Learning
 
-### 🔥 GigCampus Freelance Platform
-
-- Full-stack MERN + backend system
-- Authentication, real-time logic, scalable structure
-- 🔗 [https://gigcampus-mu.vercel.app/](https://gigcampus-mu.vercel.app/)
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/aloksinha123/aloksinha123/output/github-contribution-grid-snake.svg" />
-</p>
+* Advanced Spring Boot
+* Backend architecture & system design
+* Database optimization
+* Cloud application development
+* Data analytics & business intelligence
 
 ---
 
-## 🎯 Current Focus
+## 🤝 Open To
 
-- 🔹 Building scalable backend systems
-- 🔹 Mastering Spring Boot & system design
-- 🔹 Improving frontend UI/UX with Figma
-- 🔹 Working on real-world full-stack apps
-
----
-
-## 🤝 Let's Connect
-
-I'm open to:
-
-- 🚀 Collaboration on projects
-- 🏆 Hackathons
-- 💻 Full-stack development opportunities
+* Full-stack development opportunities
+* Backend development roles
+* Data & business analytics opportunities
+* Hackathons and technical collaborations
+* Building practical software products
 
 ---
 
 <p align="center">
-🔥 Thanks for visiting my profile!
+  <i>Building, learning, and improving one project at a time.</i>
 </p>
