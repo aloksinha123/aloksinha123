@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/alok-sinha-230005334/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://gigcampus-mu.vercel.app/">
+  <a href="https://alok-portfolio-azure.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:aloksinha081104@gmail.com">
@@ -37,7 +37,7 @@ My work spans full-stack web development, backend APIs, databases, UI/UX, and da
 * 📊 Exploring data analytics with Python, Pandas, Excel and Power BI
 * 🎨 Interested in UI/UX and product-focused development
 * ☁️ Exploring AWS, Google Cloud and cloud-based application development
-* 🚀 Interested in backend architecture, system design and scalable applications
+* 🚀 Interested in backend architecture, system design and database optimization
 
 ---
 
