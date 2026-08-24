@@ -31,13 +31,14 @@ I'm a Computer Engineering student interested in building practical software pro
 
 My work spans full-stack web development, backend APIs, databases, UI/UX, and data analytics. I enjoy turning requirements into functional applications and working across the frontend, backend, and data layers.
 
-* 💻 Building full-stack web applications and REST APIs
-* ⚙️ Working with React.js, Node.js, Java and Spring Boot
-* 🗄️ Working with PostgreSQL, MongoDB and SQL
-* 📊 Exploring data analytics with Python, Pandas, Excel and Power BI
-* 🎨 Interested in UI/UX and product-focused development
-* ☁️ Exploring AWS, Google Cloud and cloud-based application development
-* 🚀 Interested in backend architecture, system design and database optimization
+**Highlights**
+- JWT authentication and protected routes
+- Real-time chat with Socket.io
+- Bidding and project workflows
+- REST APIs
+- Production deployment
+
+**Stack:** React · Node.js · Express · MongoDB · Socket.io · JWT
 
 ---
 
@@ -176,13 +177,12 @@ A data analytics project focused on customer behavior, product performance, reve
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-* **Google Cloud Career Launchpad — Cloud Engineer Track** — Google Cloud, 2026
-* **AWS Academy Graduate — Cloud Architecting** — AWS Academy, 2026
-  🔗 [View Credential](https://www.credly.com/go/f7DaPkwr)
-* **SQL (Intermediate)** — HackerRank, 2025
-* **Data Analytics Job Simulation** — Deloitte / Forage, 2025
+- AWS Academy Graduate — Cloud Architecting · 2026
+- Google Cloud Career Launchpad — Cloud Engineer · 2026
+- HackerRank — SQL (Intermediate) · 2025
+- Deloitte — Data Analytics Job Simulation · 2025
 
 ---
 
