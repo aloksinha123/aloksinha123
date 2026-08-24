@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alok Sinha</h1>
 
 <p align="center">
-  <b>Computer Engineering Student · Full-Stack Developer · Data & Analytics</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend+%26+API+Developer;Data+%26+Analytics+Enthusiast;Building+Real-World+Applications" />
 </p>
 
 <p align="center">
@@ -96,6 +96,13 @@ My work spans full-stack web development, backend APIs, databases, UI/UX, and da
 </p>
 
 ---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aloksinha123/aloksinha123/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ## 🚀 Featured Projects
 
